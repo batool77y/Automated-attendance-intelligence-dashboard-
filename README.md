@@ -1,10 +1,6 @@
 # Automated-attendance-intelligence-dashboard-
 Interactive Power BI dashboard providing insights into student attendance trends and patterns. Attendance data analysis and visualization using Power BI with clear, interactive insights. A Power BI-based dashboard to explore and understand student attendance behavior.
 
-# Attendance Power BI Dashboard
-
-This project is a Power BI dashboard created to analyze and visualize student attendance data.
-
 ## Features
 - Interactive dashboard
 - Attendance trends and patterns
