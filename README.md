@@ -16,8 +16,9 @@ Interactive Power BI dashboard providing insights into student attendance trends
 - Dashboard screenshots
 
 ## How to Use
-1. Download the .pbix file
-2. Open it using Microsoft Power BI Desktop
+1. Download the ZIP folder from this repository. 
+2. Open `dashboard_aviation.pbix` in Power BI Desktop.  
+3. Explore the interactive dashboard and insights.
 
 ## Note
 This project focuses on data visualization and insights using Power BI.
